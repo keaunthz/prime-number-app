@@ -1,16 +1,20 @@
-# prime_number
+# Prime number
 
-A new Flutter project.
+Welcome to the prime number App project! This project serves as a technical assessment for a job application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to get started with the project:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.  **Clone the repository:**
+    
+    `git clone https://gitlab.com/keaunthz/prime_number_app.git` 
+   
+    
+2.  **Install dependencies:**
+    
+    `flutter pub get` 
+    
+3.  **Run the app:**
+    
+    `flutter run`
